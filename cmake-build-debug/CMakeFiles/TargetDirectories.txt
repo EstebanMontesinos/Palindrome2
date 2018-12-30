@@ -1,0 +1,3 @@
+/Users/estebanmontesinos/CLionProjects/hw_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/estebanmontesinos/CLionProjects/hw_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/estebanmontesinos/CLionProjects/hw_7/cmake-build-debug/CMakeFiles/hw_7.dir
